@@ -1,0 +1,115 @@
+@font-face{
+font-family: Roboto-Medium;
+src: url(../fonts/Roboto-Medium.ttf);
+}
+@font-face{
+font-family: Roboto-Regular;
+src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face{
+font-family: Roboto-Thin;
+src: url(../fonts/Roboto-Thin.ttf);
+}
+.contenido{
+	width: 80%;
+	max-width: 1000px;
+	margin:0 auto;
+}
+body{
+	margin:0 ;
+}
+header{
+	background-color: #FFE6EB;
+	font-family: Roboto-Regular;
+	font-style: bold;
+	font-size: 16px;
+	padding: 40px;
+	padding-top: 10px;
+	margin:0;
+}
+.izq{
+	float:left;
+}
+.izq a{
+	padding-top: 15px;
+	padding-right: 30px;
+	color: #404B69;
+	text-decoration: none;
+}
+.nam{
+	font-size: 25px;
+	padding: 5px;
+}
+.der a{
+	margin-right: 15px;
+	font-family: Roboto-Medium;
+}
+.der{
+	float: right;
+}
+h1{
+	color: #232931;
+	font-family: Roboto-Medium;
+	font-size: 50px;
+}
+.img1{
+	max-width:400px;
+	width: 100%;
+	height:auto;
+    float: right;
+    margin-left: 20px;
+    border-radius: 12px;
+}
+h2{
+	color:#9F609C;
+	font-family: Roboto-Medium;
+	font-size: 48px;
+}
+h3{
+	color:#404B69;
+	font-family: Roboto-Medium;
+	font-size: 30px;
+}
+p{
+	color: #404B69;
+	font-family:Roboto-Thin;
+	font-size:22px;
+	text-align: justify;
+}
+article{
+	margin-bottom:20%;
+	margin-top: 10%;
+}
+.imgs{
+max-width: 250px;
+width: 100%;
+height: auto;
+margin: 12px;
+}
+.imgss{
+max-width: 150px;
+width: 100%;
+height: auto;
+margin:5px;
+float:left;
+margin-right: 12px;
+
+}
+.recetas{
+	color:#;
+	font-size: 18px;
+	font-family:Roboto-Medium;
+}
+figure{
+	margin-bottom:100px;
+}
+.fotos{
+	max-width: 250px;
+	margin: 5px;
+	width: 100%;
+	height:auto;
+}
+.footer{
+	width: 100%;
+	height: auto;
+}
