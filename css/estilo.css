@@ -109,6 +109,13 @@ figure{
 	width: 100%;
 	height:auto;
 }
+#scrollUp {
+bottom:20px;
+	right:20px;
+	padding:10px 20px;
+	background:#555;
+	color:#fff;
+}
 .footer{
 	width: 100%;
 	height: auto;
